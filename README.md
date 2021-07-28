@@ -1,7 +1,7 @@
 # README
 
 This is the Pokemon Trader calculator! Given a pair of trades, each with one to six
-pokemons, it says if was a fair or unfair trade, based on the "base experience" information. This data is retrieved from an API containing lots of Pokemon data (https://pokeapi.co/docs/v2). This API is consumed by the `poke-api-v2` gem (https://github.com/rdavid1099/poke-api-v2). 
+pokemons, it says if was a fair or unfair trade, based on the "base experience" information. This data is retrieved from an API containing lots of Pokemon data (https://pokeapi.co/docs/v2). This API is consumed by the `poke-api-v2` gem (https://github.com/rdavid1099/poke-api-v2).
 
 ## How the code is organized here.
 
@@ -40,7 +40,11 @@ This system was built on top of three main entities:
    is composed by many `ExchangedPokemons` and it can be `left` or `right` side.
 
 ## Project setup
-
+### Platform-specific guides to Rails
+- Windows: https://gorails.com/setup/windows/10
+- Linux: https://gorails.com/setup/ubuntu/20.04
+- OSX: https://gorails.com/setup/osx/11.0-big-sur
+- Docker: Easy as `docker-compose up`
 ### Installing dependencies
 To install dependencies for this project you must run `bundle install`
 
@@ -54,7 +58,7 @@ yarn install
 ```
 
 ### Running tests
-This project uses Rspec, so in order to run the tests you must run `bundle exec rspec` 
+This project uses Rspec, so in order to run the tests you must run `bundle exec rspec`
 
 ## Starting the server
 Before starting the server you must run `rails db:setup` to create the database and run all migrations. Afterwards, a simple `rails s` should start in your app in port 3000.
