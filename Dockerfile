@@ -1,10 +1,10 @@
 FROM ruby:2.7.2-alpine
 
+WORKDIR /app
+
 RUN apk add --no-cache --update build-base bash tzdata \
       libxslt-dev libxml2-dev git nodejs yarn sqlite-dev
 
-RUN mkdir /app
-WORKDIR /app
 
 COPY Gemfile .
 COPY Gemfile.lock .

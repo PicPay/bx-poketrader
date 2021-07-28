@@ -1,9 +1,9 @@
 version: "2"
 
 services:
-  app:
+  web:
     build: .
-    command: "rails s -b 0.0.0.0"
+    command: "sh -c \"rm tmp/pids/server.pid ; yarn ; rails s -b 0.0.0.0\""
     ports:
       - 3000:3000
     tty: true
