@@ -1,0 +1,17 @@
+<div class="container">
+  <h1 class="display-2 mb-2">Pokemons</h1>
+
+  <div class="card mb-4">
+    <div class="card-body bg-light">
+      <p class="card-text">If you know a pokemon and it is missing from the trade list, you can add it here!</p>
+      <p class="card-text">Just type the pokemon's name and submit.</p>
+    </div>
+  </div>
+
+  <%= form_tag pokemons_path do %>
+    <%= label_tag 'name', nil, class: "form-label" %>
+    <%= text_field_tag 'name', nil, class: "form-control mb-4" %>
+
+    <input type="submit" class="btn btn-primary">
+  <% end %>
+</div>

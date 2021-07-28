@@ -1,0 +1,94 @@
+{
+  "application.js": "/packs/js/application-ac52b1a8a7dcb66a16c7.js",
+  "application.js.map": "/packs/js/application-ac52b1a8a7dcb66a16c7.js.map",
+  "components/exchange-fairness-alert.js": "/packs/js/components/exchange-fairness-alert-188fe253594fa7c0aa87.js",
+  "components/exchange-fairness-alert.js.map": "/packs/js/components/exchange-fairness-alert-188fe253594fa7c0aa87.js.map",
+  "components/exchange-form.js": "/packs/js/components/exchange-form-1d869447166449908bdb.js",
+  "components/exchange-form.js.map": "/packs/js/components/exchange-form-1d869447166449908bdb.js.map",
+  "components/exchange-input.js": "/packs/js/components/exchange-input-168b8eab2203d2a8518e.js",
+  "components/exchange-input.js.map": "/packs/js/components/exchange-input-168b8eab2203d2a8518e.js.map",
+  "components/exchange-side.js": "/packs/js/components/exchange-side-d9c6af5618568970150b.js",
+  "components/exchange-side.js.map": "/packs/js/components/exchange-side-d9c6af5618568970150b.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-ac52b1a8a7dcb66a16c7.js"
+      ],
+      "js.map": [
+        "/packs/js/application-ac52b1a8a7dcb66a16c7.js.map"
+      ]
+    },
+    "components/exchange-fairness-alert": {
+      "js": [
+        "/packs/js/components/exchange-fairness-alert-188fe253594fa7c0aa87.js"
+      ],
+      "js.map": [
+        "/packs/js/components/exchange-fairness-alert-188fe253594fa7c0aa87.js.map"
+      ]
+    },
+    "components/exchange-form": {
+      "js": [
+        "/packs/js/components/exchange-form-1d869447166449908bdb.js"
+      ],
+      "js.map": [
+        "/packs/js/components/exchange-form-1d869447166449908bdb.js.map"
+      ]
+    },
+    "components/exchange-input": {
+      "js": [
+        "/packs/js/components/exchange-input-168b8eab2203d2a8518e.js"
+      ],
+      "js.map": [
+        "/packs/js/components/exchange-input-168b8eab2203d2a8518e.js.map"
+      ]
+    },
+    "components/exchange-side": {
+      "js": [
+        "/packs/js/components/exchange-side-d9c6af5618568970150b.js"
+      ],
+      "js.map": [
+        "/packs/js/components/exchange-side-d9c6af5618568970150b.js.map"
+      ]
+    },
+    "functions/api": {
+      "js": [
+        "/packs/js/functions/api-8423455d4c138ad3dad9.js"
+      ],
+      "js.map": [
+        "/packs/js/functions/api-8423455d4c138ad3dad9.js.map"
+      ]
+    },
+    "functions/pokemons": {
+      "js": [
+        "/packs/js/functions/pokemons-1141ac3cb549fe5604ca.js"
+      ],
+      "js.map": [
+        "/packs/js/functions/pokemons-1141ac3cb549fe5604ca.js.map"
+      ]
+    },
+    "hello_react": {
+      "js": [
+        "/packs/js/hello_react-f669bf0d10013662d5b7.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_react-f669bf0d10013662d5b7.js.map"
+      ]
+    },
+    "poke-trader-app": {
+      "js": [
+        "/packs/js/poke-trader-app-14ce3441d17b1c77e8a8.js"
+      ],
+      "js.map": [
+        "/packs/js/poke-trader-app-14ce3441d17b1c77e8a8.js.map"
+      ]
+    }
+  },
+  "functions/api.js": "/packs/js/functions/api-8423455d4c138ad3dad9.js",
+  "functions/api.js.map": "/packs/js/functions/api-8423455d4c138ad3dad9.js.map",
+  "functions/pokemons.js": "/packs/js/functions/pokemons-1141ac3cb549fe5604ca.js",
+  "functions/pokemons.js.map": "/packs/js/functions/pokemons-1141ac3cb549fe5604ca.js.map",
+  "hello_react.js": "/packs/js/hello_react-f669bf0d10013662d5b7.js",
+  "hello_react.js.map": "/packs/js/hello_react-f669bf0d10013662d5b7.js.map",
+  "poke-trader-app.js": "/packs/js/poke-trader-app-14ce3441d17b1c77e8a8.js",
+  "poke-trader-app.js.map": "/packs/js/poke-trader-app-14ce3441d17b1c77e8a8.js.map"
+}
